@@ -1,2 +1,0 @@
-[[Electrostatics MOC]]
-# Compiled Concepts
